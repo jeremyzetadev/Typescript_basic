@@ -11,4 +11,7 @@ function concatenateName(first, last) {
 }
 let fullName = concatenateName("Bob", "Charlie");
 console.log(fullName);
+const words = ["Hello", "World", "From", "Typescript"];
+const sentence = words.join(" ");
+console.log(sentence);
 //# sourceMappingURL=index.js.map

@@ -12,3 +12,9 @@ function concatenateName(first: string, last: string): string{
 
 let fullName = concatenateName("Bob", "Charlie");
 console.log(fullName);
+
+
+
+const words: string[] = ["Hello", "World", "From", "Typescript"];
+const sentence: string = words.join(" ");
+console.log(sentence);
