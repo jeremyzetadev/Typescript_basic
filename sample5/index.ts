@@ -1,3 +1,52 @@
+// ORIGINAL JS SOURCECODE
+// ==========================================================================
+// ==========================================================================
+// console.log("XXXXXXXX")
+//
+// const spriteWidth = 256;
+// const spriteHeight = 256;
+// const spriteAnimation = [];
+// const animationStates = [
+//     {
+//         name: "idle",
+//         frames: 4,
+//     },
+//     {
+//         name: "attack",
+//         frames: 6,
+//     }
+// ];
+//
+// animationStates.forEach((state, index)=>{
+//     const spriteFrame = {
+//         loc: []
+//     }
+//     for(i=0; i<state.frames; i++){
+//         const x = spriteWidth * i;
+//         const y = spriteHeight * index;
+//         spriteFrame.loc.push({xPos:x, yPos:y});
+//     }
+//     spriteAnimation[state.name] = spriteFrame;
+// })
+//
+// console.log(animationStates);
+// for(i=0; i<Object.keys(spriteAnimation).length; i++)
+//     console.log(spriteAnimation[Object.keys(spriteAnimation)[i]]);
+// ==========================================================================
+// ==========================================================================
+// ORIGINAL JS SOURCEECODE
+
+
+
+
+
+
+
+
+
+
+
+
 console.log("XXXXXXXX");
 
 const spriteWidth: number = 256;
